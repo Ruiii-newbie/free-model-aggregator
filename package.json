@@ -1,0 +1,1 @@
+{"description":"One OpenAI- and Anthropic-compatible server routing requests to the best free models with failover.","license":"MIT","name":"free-model-aggregator","type":"module","version":"1.0.0"}
